@@ -8,3 +8,6 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
+    build:
+      env:
+        NODE_VERSION: 18.20.2
