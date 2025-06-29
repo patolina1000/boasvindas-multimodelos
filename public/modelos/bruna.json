@@ -1,0 +1,22 @@
+{
+  "nome": "Bruna",
+  "imagem": "bruna.png",
+  "pixel_id": "1584917512465705",
+  "planos": [
+    {
+      "plano": "pack_a",
+      "valor": 13,
+      "telegram": "https://t.me/bruna_pack_a"
+    },
+    {
+      "plano": "pack_b",
+      "valor": 23,
+      "telegram": "https://t.me/bruna_pack_b"
+    },
+    {
+      "plano": "pack_c",
+      "valor": 33,
+      "telegram": "https://t.me/bruna_pack_c"
+    }
+  ]
+}

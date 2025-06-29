@@ -1,0 +1,22 @@
+{
+  "nome": "Hadrielle",
+  "imagem": "hadrielle.jpg",
+  "pixel_id": "1584917512465705",
+  "planos": [
+    {
+      "plano": "pack_a",
+      "valor": 18,
+      "telegram": "https://t.me/hadrielle_pack_a"
+    },
+    {
+      "plano": "pack_b",
+      "valor": 28,
+      "telegram": "https://t.me/hadrielle_pack_b"
+    },
+    {
+      "plano": "pack_c",
+      "valor": 38,
+      "telegram": "https://t.me/hadrielle_pack_c"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: boasvindas-multimodelos
+    env: node
+    buildCommand: npm install && node server/db-init.js
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
